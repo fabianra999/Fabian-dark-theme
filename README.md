@@ -1,5 +1,6 @@
 Brackets Theme: Fabian Dark
 ===
+directory = (C:\Users\desbog7\AppData\Roaming\Brackets\extensions\user\fabian-dark-theme).
 
 This theme is based on _TheSansMono_ _Condensed_ by [LucasFonts](http://www.lucasfonts.com/fonts/thesansmono/thesansmono-condensed/overview/).
 
