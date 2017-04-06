@@ -1,4 +1,4 @@
-Brackets Theme: Markus Dark
+Brackets Theme: Fabian Dark
 ===
 
 This theme is based on _TheSansMono_ _Condensed_ by [LucasFonts](http://www.lucasfonts.com/fonts/thesansmono/thesansmono-condensed/overview/).
